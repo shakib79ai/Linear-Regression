@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Output / generated files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
